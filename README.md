@@ -64,23 +64,11 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
-
-
+<img width="599" height="509" alt="508690463-a6727e53-c531-42be-a6bf-3d0aee60cf58" src="https://github.com/user-attachments/assets/f6c0095f-9319-4228-92a4-db10f51afe7f" />
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/89689bbb-d3ff-4740-9153-41e7864b36a2" />
 
 
 **Result:**
